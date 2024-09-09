@@ -15,7 +15,9 @@ export default defineConfig({
       {
         text: '使用',
         items: [
-          { text: '快速入门', link: '/usage/' }
+          { text: '快速入门', link: '/usage/' },
+          { text: '插件命令', link: '/usage/command' },
+          { text: '菜单操作', link: '/usage/action' },
         ]
       }
     ],

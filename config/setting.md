@@ -17,7 +17,8 @@ unSupportVersions:
 - 1.7.1
 RandomID: false
 DeBugMode: false
-
+# 是否启用代理端模式
+proxyServer: false
 UseSystemItemList: true
 
 # 擅自修改可能会导致财产损失！后果自负！
@@ -69,7 +70,7 @@ setting:
   UseConfigURL: false
   # API地址
   API-URL: http://baidu.com/
-  # 是否在自动检查更新，建议关闭
+  # 是否在自动检查更新
   check-update: true
   # 玩家最多可创建菜单的数量(OP不算)
   PlayerMaxCreate: 10

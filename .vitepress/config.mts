@@ -22,6 +22,20 @@ export default defineConfig({
         ]
       },
       {
+        text: '开发',
+        items: [
+          { text: 'API', link: '/develop/API'},
+          { text: 'Script', link: '/develop/script' },
+        ]
+      },
+      {
+        text: '配置',
+        items: [
+          { text: '索引', link: '/config/index' },
+          { text: 'setting.yml', link: '/config/setting' },
+        ]
+      },
+      {
         text: '钩子',
         items: [
           { text: 'Placeholder API', link: '/develop/papi' }
@@ -31,19 +45,6 @@ export default defineConfig({
         text: 'Geyser',
         items: [
           { text: '示例', link: '/geyser/example' }
-        ]
-      },
-      {
-        text: '开发',
-        items: [
-          { text: '索引', link: '/develop/index' }
-        ]
-      },
-      {
-        text: '配置',
-        items: [
-          { text: '索引', link: '/config/index' },
-          { text: 'setting.yml', link: '/config/setting' },
         ]
       }
     ],

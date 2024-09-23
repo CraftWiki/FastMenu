@@ -22,6 +22,12 @@ export default defineConfig({
         ]
       },
       {
+        text: '钩子',
+        items: [
+          { text: 'Placeholder API', link: '/develop/papi' }
+        ]
+      },
+      {
         text: '开发',
         items: [
           { text: '索引', link: '/develop/index' }

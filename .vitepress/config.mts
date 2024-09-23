@@ -28,6 +28,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Geyser',
+        items: [
+          { text: '示例', link: '/geyser/example' }
+        ]
+      },
+      {
         text: '开发',
         items: [
           { text: '索引', link: '/develop/index' }
@@ -43,7 +49,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/YYDSQAQ1024/FastMenu' },
+      { icon: 'github', link: 'https://github.com/CraftWiki/FastMenu' }
     ]
   }
 })

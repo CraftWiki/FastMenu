@@ -22,9 +22,16 @@ export default defineConfig({
         ]
       },
       {
+        text: '开发',
+        items: [
+          { text: '索引', link: '/develop/index' }
+        ]
+      },
+      {
         text: '配置',
         items: [
-          { text: '索引', link: '/config/index' }
+          { text: '索引', link: '/config/index' },
+          { text: 'setting.yml', link: '/config/setting' },
         ]
       }
     ],

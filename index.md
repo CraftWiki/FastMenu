@@ -15,7 +15,7 @@ hero:
       link: /usage/
     - theme: alt
       text: 开发文档
-      link: /api-examples
+      link: /develop/
 
 features:
   - title: 快速创建

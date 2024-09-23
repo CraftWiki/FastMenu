@@ -38,7 +38,7 @@ export default defineConfig({
       {
         text: '钩子',
         items: [
-          { text: 'Placeholder API', link: '/develop/papi' }
+          { text: 'Placeholder API', link: '/hook/papi' }
         ]
       },
       {

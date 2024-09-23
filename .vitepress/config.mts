@@ -25,7 +25,7 @@ export default defineConfig({
         text: '开发',
         items: [
           { text: 'API', link: '/develop/API'},
-          { text: 'Script', link: '/develop/script' },
+          { text: 'Script', link: '/develop/Script' },
         ]
       },
       {

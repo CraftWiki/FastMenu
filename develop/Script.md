@@ -1,6 +1,4 @@
 # Script
-> [!WARNING]
-> 在1.20以上的版本，fmenu已不再支持JavaScript脚本！这是一个BUG导致的问题，作者也不知道为什么。
 Fmenu支持JavaScript脚本
 示例：
 ```yaml
@@ -20,3 +18,5 @@ enable: true
   name: ''#留空则显示物品本身名称
   mount: 1
 ```
+> [!WARNING]
+> 在1.20以上的版本，fmenu已不再支持JavaScript脚本！这是一个BUG导致的问题，作者也不知道为什么。

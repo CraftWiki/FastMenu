@@ -1,6 +1,13 @@
 # 快速入门
 ## 下载并安装（单端）
-请点[这里](https://github.com/YYDSQAQ1024/FastMenu/releases/download/Installer/fmenu-Installer.jar)下载FastMenu的安装插件，将其放置在Plugins目录下，首先重启一遍，在服务器加载完毕（有Done字样）时再重启，此时，您的FastMenu应该已经安装好了。
+### 第一步
+点击[这里](https://github.com/YYDSQAQ1024/FastMenu/releases/download/Installer/fmenu-Installer.jar)下载FastMenu的安装插件
+### 第二步
+将其放置在Plugins目录下
+### 第三步
+重启并等待，在服务器加载完毕（有Done字样）时再重启
+### 第四步
+享用它！
 
 ## 下载并安装（跨服/代理端）
 请点[这里](https://github.com/YYDSQAQ1024/FastMenu/releases/download/Installer/fmenu-Installer.jar)下载FastMenu的安装插件，将其放置在**子服的**Plugins目录下，首先重启一遍，在服务器加载完毕（有Done字样）时再重启，随后执行下面的操作。
@@ -83,7 +90,7 @@ setting:
   UseConfigURL: false
   # API地址
   API-URL: http://baidu.com/
-  # 是否在自动检查更新
+  # 是否自动检查更新（默认生成配置无此项）
   check-update: true
   # 玩家最多可创建菜单的数量(OP不算)
   PlayerMaxCreate: 10

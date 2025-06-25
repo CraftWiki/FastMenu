@@ -4,8 +4,8 @@ layout: home
 
 hero:
   image:
-    src: https://www.minebbs.com/data/assets/default_avatars/steve.jpeg
-    alt: VitePress
+    src: https://docs.fmenu.ngup.eu.org/~gitbook/image?url=https%3A%2F%2F3264566096-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4zqyXwn07bOenzpJcJ2a%252Ficon%252FTL5vF6Vy3is6bFkrbykm%252Fserver-icon.png%3Falt%3Dmedia%26token%3D9124c05b-9bd0-4730-bd12-c8bb73048e65&width=32&dpr=1&quality=100&sign=f23273de&sv=2
+    alt: FMenu
   name: "快速菜单"
   text: "FastMenu"
   tagline: 一款可以在游戏内使用GUI创建、编辑、制作菜单的插件，拥有丰富的点击执行类型。
